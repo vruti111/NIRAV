@@ -4,7 +4,7 @@ namespace NIRAV
     public class Ary22
     {
         public static void Main(string[] args)
-        //3*2 ARRAY,2*3 array
+        //3*2 ARRAY
         {
             int[,] ary = { { 1, 2 }, { 3, 4 }, { 5, 6 } };
             Console.WriteLine("3x2 2D array:");
