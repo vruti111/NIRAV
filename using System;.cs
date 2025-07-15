@@ -1,7 +1,7 @@
 ﻿using System;
 namespace NIRAV
 {
-    // jagged array
+    // jagged array reverse
     public class jary2
     {
         public static void Main(string[] args)
