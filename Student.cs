@@ -29,7 +29,7 @@ internal class Constructor
 {
     public static void Main(string[] args)
     {
-        Student s1 = new Student();
+        Student s1 = new Student( 11,"vvv");  // constructor called here 
         s1.showData();
         Console.WriteLine();
         Student s2 = new Student();
